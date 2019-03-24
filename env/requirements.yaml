@@ -9,4 +9,4 @@ dependencies:
   version: 2.3.58
 - name: schedule-app
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.01
+  version: "0.01"
